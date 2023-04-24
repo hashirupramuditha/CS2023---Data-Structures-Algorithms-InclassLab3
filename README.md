@@ -1,2 +1,2 @@
 # CS2023---Data-Structures-Algorithms-InclassLab3
-Finding the median of an unsorted numerical array.
+This repository includes c++ source files for in-class lab 3 activities in CS2023-data structures and algorithms module.
